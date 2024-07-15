@@ -5,7 +5,7 @@ import '../../styles/styles.css';
 
 const Footer = () => (
   <footer>
-    <p>&copy; 2024 Quiz App</p>
+    {/* <p>&copy; 2024 Quiz App</p> */}
   </footer>
 );
 
